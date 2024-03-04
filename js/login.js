@@ -14,6 +14,11 @@ const data = [
         "id": 3,
         "usuario": "leticia",
         "senha": "123654"
+      },
+      {
+        "id": 4,
+        "usuario": "raquel",
+        "senha": "132465"
       }
 ]
 const btn = document.querySelector('#login')

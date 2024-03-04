@@ -49,6 +49,7 @@ main{
    margin-left: 125px;
    font-size: 20px;
    border: solid  3px var(---white);
+   color: #1F2B3D;
    
 }
 .btn-login{
@@ -60,6 +61,7 @@ main{
     margin-left:90px;
     font-size: 20px;
     border: solid  3px var(---white);
+    color: #1F2B3D;
     
  }
 .btn:hover{
@@ -106,6 +108,7 @@ main{
 .form-login{
     display: flex;
     flex-direction: column;
+
 }
 
 /* pagina---------                       */
@@ -127,3 +130,23 @@ main{
     
     
 }
+.section-resposta{
+  
+    color: var(---white);
+    font-size: 20px;
+    margin:30px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    
+    
+}
+.resposta{ 
+    font-family: "Inter", sans-serif;
+}
+#respostaAutor, #respostaGrupo, #respostaTestamento, #respostaCapitulos{ 
+background-color:#91a7c7 ;
+border-radius: 25px;
+ 
+}
+              
+             
